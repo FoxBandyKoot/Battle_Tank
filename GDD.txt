@@ -1,0 +1,9 @@
+Entrées :
+
+Sorties :
+
+Objectif : Détruire les tanks adverse
+
+Actions à réaliser : Menu, Se déplacer, Tirer
+
+Assets : Aucun
